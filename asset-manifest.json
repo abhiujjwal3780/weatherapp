@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abhi@3780/static/css/main.d1c13891.chunk.css",
+    "main.js": "/abhi@3780/static/js/main.cacee233.chunk.js",
+    "main.js.map": "/abhi@3780/static/js/main.cacee233.chunk.js.map",
+    "runtime-main.js": "/abhi@3780/static/js/runtime-main.c8b370a9.js",
+    "runtime-main.js.map": "/abhi@3780/static/js/runtime-main.c8b370a9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/abhi@3780/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.89c7bff4.chunk.js": "/abhi@3780/static/js/2.89c7bff4.chunk.js",
+    "static/js/2.89c7bff4.chunk.js.map": "/abhi@3780/static/js/2.89c7bff4.chunk.js.map",
+    "static/js/3.b8f981eb.chunk.js": "/abhi@3780/static/js/3.b8f981eb.chunk.js",
+    "static/js/3.b8f981eb.chunk.js.map": "/abhi@3780/static/js/3.b8f981eb.chunk.js.map",
+    "index.html": "/abhi@3780/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/abhi@3780/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d1c13891.chunk.css.map": "/abhi@3780/static/css/main.d1c13891.chunk.css.map",
+    "static/js/2.89c7bff4.chunk.js.LICENSE.txt": "/abhi@3780/static/js/2.89c7bff4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b370a9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.89c7bff4.chunk.js",
+    "static/css/main.d1c13891.chunk.css",
+    "static/js/main.cacee233.chunk.js"
+  ]
+}
