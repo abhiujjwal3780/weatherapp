@@ -23,7 +23,7 @@ const CityInput=({city,setCity,fetchCityWeather})=>{
             <Form.Control 
             value={city}
             type="text" 
-            placeholder="Enter city"
+            placeholder="Enter city name"
             onChange={handleInputChange}
 
             />
